@@ -25,7 +25,7 @@
     <a href = "#"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google%20home&logoColor=white" target="_blank"></a>
     <a href = "#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <h3>Languages & Tools</h3>
-    <img style="padding-right: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35px" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35px" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="32px"  />
